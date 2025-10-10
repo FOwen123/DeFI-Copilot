@@ -1,0 +1,14 @@
+[project]
+name = "defi-copilot"
+version = "0.1.0"
+description = "LangGraph-powered DeFi AI agent with streaming API"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=0.3.27,<0.4",
+    "langchain-openai>=0.3.35",
+    "langgraph==0.6.7",
+    "python-dotenv>=1.1.1",
+    "fastapi>=0.115.0",
+    "uvicorn>=0.32.0",
+]
