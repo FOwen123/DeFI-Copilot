@@ -1,1 +1,1 @@
-# DeFI-Copilot
+MCP Server
